@@ -1,2 +1,0 @@
-# MLE
-Maximum Likelihood Estimate
